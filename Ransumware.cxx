@@ -1,25 +1,3 @@
-
-Conversation opened. 1 read message.
-
-Skip to content
-Using Gmail with screen readers
-Meet
-New meeting
-Join a meeting
-Hangouts
-
-1 of 23
-scare
-Inbox
-
-Johnathan Benge <jbenge3@my.wgu.edu>
-Attachments
-Mon, Nov 15, 5:17 PM (15 hours ago)
-to bigfootdlb, me
-
-ware
-
-Attachments area
 // ConsoleApplication1.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
 
