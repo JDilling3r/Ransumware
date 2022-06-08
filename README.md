@@ -13,10 +13,11 @@ This application does NOT
 - Create persistence
 - Edit anything above or below User's Desktop folder. 
 
-  # To Do
-  - Create gui layer to edit and dynamically create compiled code
-  - Clean code
-  - Add auto-clean up count down (desired effect lasting x minutes long upon running then self destruct)
+# To Do
+- Create gui layer to edit and dynamically create compiled code
+- Clean code
+- Add auto-clean up count down (desired effect lasting x minutes long upon running then self destruct)
+- Create Beacon Object File for use with CobaltStrike
   
-  # AV
-  - Although nothing truly malicious is happening, Norton AV flags for file manipulation (Mcafee, WindowsDefender does not)
+# AV
+- Although nothing truly malicious is happening, Norton AV flags for file manipulation (Mcafee, WindowsDefender does not)
