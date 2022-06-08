@@ -67,7 +67,7 @@ std::vector<wstring> fileRename;
 ////////////////////////// Supporting Functions ///////////////////////////
 ///////////////////////////////////////////////////////////////////////////
 void ChangeBackground() {
-	const wchar_t* filenm = L"C:\\Users\\user\\Documents\\LockYoShit.jpg";
+	const wchar_t* filenm = L"C:\\Users\\user\\Documents\\Lock.jpg";
 	SystemParametersInfo(SPI_SETDESKWALLPAPER, 0, (void*)filenm, SPIF_UPDATEINIFILE);
 }
 
