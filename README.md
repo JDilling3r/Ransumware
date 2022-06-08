@@ -14,6 +14,7 @@ This application does NOT
 - Edit anything above or below User's Desktop folder. 
 
 # To Do
+- Polish and make more professional
 - Create gui layer to edit and dynamically create compiled code
 - Clean code
 - Add auto-clean up count down (desired effect lasting x minutes long upon running then self destruct)
