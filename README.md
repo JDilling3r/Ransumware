@@ -16,5 +16,7 @@ This application does NOT
   # To Do
   - Create gui layer to edit and dynamically create compiled code
   - Clean code
-  - Add auto-clean count down (desired effect lasting x minutes long upon running)
-  - Create Powershell Script to put in every domain user's autorun 
+  - Add auto-clean up count down (desired effect lasting x minutes long upon running then self destruct)
+  
+  # AV
+  - Although nothing truly malicious is happening, Norton AV flags for file manipulation (Mcafee, WindowsDefender does not)
