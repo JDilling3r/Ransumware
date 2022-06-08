@@ -12,3 +12,9 @@ This application does NOT
 - Delete data
 - Create persistence
 - Edit anything above or below User's Desktop folder. 
+
+  # To Do
+  - Create gui layer to edit and dynamically create compiled code
+  - Clean code
+  - Add auto-clean count down (desired effect lasting x minutes long upon running)
+  - Create Powershell Script to put in every domain user's autorun 
